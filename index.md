@@ -9,3 +9,6 @@ Above shown is an image of a **_black hole_**.
 string s = "This is a black hole.";
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
